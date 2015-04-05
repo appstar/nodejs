@@ -1,0 +1,4 @@
+PhoneGap Plugins
+----------------
+org.apache.cordova.vibration
+
